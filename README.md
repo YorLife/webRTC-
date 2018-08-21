@@ -10,7 +10,7 @@
 4.	WebRtcAudioTest项目 对pcm格式文件使用ns进行降噪
 使用流程：
 1.	运行wav2pcm.py文件对wav格式文件进行处理，将其转成pcm格式，其中第一个红色方框里填写源文件目录(这里的反斜杠需要变成斜杠)，第二个红色方框里填写输出目录(这里的反斜杠需要变成斜杠)。
-![加载失败](https://github.com/xiyihong/你的项目名/raw/master/images/1.png)
+![加载失败](https://github.com/xiyihong/webRTC-/raw/master/images/1.png)
 2.	用vs打开audio_process项目里source文件夹下的audioprocess.sln文件，运行项目，在console里面根据提示输入源文件目录（这里的源文件目录需要选择上一步得到的pcm文件目录，不能是wav格式的）和输出目录，回车就能自动对文件进行vad算法处理，确定音频端点。
  
  
