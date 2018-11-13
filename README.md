@@ -22,3 +22,4 @@
 4.	运行pcm2wav.py文件，将pcm格式文件转换成wav格式, 其中第一个红色方框里填写源文件目录(这里的反斜杠需要变成斜杠)，第二个红色方框里填写输出目录(这里的反斜杠需要变成斜杠)
  
 ![加载失败](https://github.com/xiyihong/webRTC-/raw/master/images/6.png)
+asas
